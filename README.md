@@ -40,10 +40,10 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 ## Screenshot
    
    <img src = "https://github.com/nileshchilka1/Real-Time-Face-Mask-Detection/blob/master/Screenshot%201.png"
-         alt = "HTML" height = "700" width = "1100" />
+         alt = "HTML" height = "500" width = "1100" />
    
-   <img src = "https://github.com/nileshchilka1/Real-Time-Face-Mask-Detection/blob/master/Screenshot%201.png"
-         alt = "HTML" height = "700" width = "1100" />
+   <img src = "https://github.com/nileshchilka1/Real-Time-Face-Mask-Detection/blob/master/Screenshot%202.png"
+         alt = "HTML" height = "500" width = "1100" />
 
 ## Credits 
 https://pypi.org/project/fdet/
