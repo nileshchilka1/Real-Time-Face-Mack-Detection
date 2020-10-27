@@ -13,18 +13,30 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 
       Download Repositary [Link](https://github.com/nileshchilka1/Real-Time-Face-Mask-Detection/archive/master.zip)
 
-1) Create new environment:   conda create -n myenv python=3.6
-
-2) install pytorch:          conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
-
+1) Create new environment:   
+      ```markdown
+      conda create -n myenv python=3.6
+      ```
+      
+2) Install pytorch:
+      ```markdown
+      conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+      ```
       For more information visit:- https://pytorch.org/ 
 
-3) Locate directory
+3) Locate Repositary
+      ```markdown
+      cd Real-Time-Face-Mask-Detection
+      ```
 
-4) Install requirements.txt: pip install -r requirements.txt
-
-5) run main.py by passing video location as --> python main.py 2.mp4         
-
+4) Install requirements.txt
+      ```markdown
+      pip install -r requirements.txt
+      ```
+5) run main.py by passing video location
+      ```markdown
+      python main.py 2.mp4         
+      ```
 
 
 
