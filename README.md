@@ -37,13 +37,13 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
       ```markdown
       python main.py sample.mp4         
       ```
-## Screenshot
+## Screenshots
    
    <img src = "https://github.com/nileshchilka1/Real-Time-Face-Mask-Detection/blob/master/Screenshot%201.png"
-         alt = "HTML" height = "500" width = "1100" />
+         alt = "HTML" height = "500" width = "900" />
    
    <img src = "https://github.com/nileshchilka1/Real-Time-Face-Mask-Detection/blob/master/Screenshot%202.png"
-         alt = "HTML" height = "500" width = "1100" />
+         alt = "HTML" height = "500" width = "900" />
 
 ## Credits 
 https://pypi.org/project/fdet/
