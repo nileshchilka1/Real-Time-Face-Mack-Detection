@@ -35,11 +35,18 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
       ```
 5) run main.py by passing video location
       ```markdown
-      python main.py 2.mp4         
+      python main.py sample.mp4         
       ```
+## Screenshot
+   
+   <img src = "https://github.com/nileshchilka1/Real-Time-Face-Mask-Detection/blob/master/Screenshot%201.png"
+         alt = "HTML" height = "700" width = "1100" />
+   
+   <img src = "https://github.com/nileshchilka1/Real-Time-Face-Mask-Detection/blob/master/Screenshot%201.png"
+         alt = "HTML" height = "700" width = "1100" />
 
-
-
+## Credits 
+https://pypi.org/project/fdet/
 
 
 
